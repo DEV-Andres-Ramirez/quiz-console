@@ -1,1 +1,3 @@
 type,id,difficulty,points,question,options,answer,explanation
+MCQ,MCQ-001,MEDIUM,1.0,"¿Cuál(es) son lenguajes tipados estáticamente?",Java|Python|TypeScript (strict)|JavaScript,0;2,"Python y JS son dinámicos."
+VF,VF-101,EASY,1.0,HTTP es un protocolo sin estado,,T,"Stateless por diseño."
